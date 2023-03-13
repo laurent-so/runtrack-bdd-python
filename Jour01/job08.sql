@@ -1,0 +1,1 @@
+SELECT nom, prenom, age, email FROM etudiants WHERE age < 18;
